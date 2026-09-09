@@ -176,13 +176,12 @@ If you feel up to it, you can try implementing the algorithm ([here’s a link t
 Be warned, though. While the algorithm is sound, there are special cases we didn’t consider. I know many people who use this problem as an interview question exactly because the number of special cases (that depend on programming language, number representations, phases of the moon and much more) makes it so interesting. But give it a go!
 
 
-[command-line-ex]: https://github.com/birc-ctib/command-lines-and-pipes
-[intro-to-github-ex]: https://github.com/birc-ctib/intro-to-git-and-github
+[command-line-ex]: https://github.com/CTiB-exercizes/Command-line-and-pipes
+[intro-to-github-ex]: https://github.com/CTiB-exercizes/Introduction-to-Git-and-GitHub
 
-[w02-prog-ex]: https://github.com/birc-ctib/basic-python
-[w02-commandline-ex]: https://github.com/birc-ctib/command-line-python
+[w02-prog-ex]: https://github.com/CTiB-exercizes/basic-python
 
-[w03-merge-ex]: https://github.com/birc-ctib/merging
+[w03-merge-ex]: https://github.com/CTiB-exercizes/merging
 [w03-guessing-ex]: https://github.com/birc-ctib/guessing
 [w03-base-ex]: https://github.com/birc-ctib/changing-base
 [w03-sieve-ex]: https://github.com/birc-ctib/sieve
