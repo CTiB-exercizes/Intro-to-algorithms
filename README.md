@@ -182,7 +182,7 @@ Be warned, though. While the algorithm is sound, there are special cases we didn
 [w02-prog-ex]: https://github.com/CTiB-exercizes/basic-python
 
 [w03-merge-ex]: https://github.com/CTiB-exercizes/merging
-[w03-guessing-ex]: https://github.com/birc-ctib/guessing
+[w03-guessing-ex]: https://github.com/CTiB-exercizes/guessing
 [w03-base-ex]: https://github.com/birc-ctib/changing-base
 [w03-sieve-ex]: https://github.com/birc-ctib/sieve
 [w03-substring-ex]: https://github.com/birc-ctib/lis
