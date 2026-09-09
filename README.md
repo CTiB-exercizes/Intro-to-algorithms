@@ -183,11 +183,11 @@ Be warned, though. While the algorithm is sound, there are special cases we didn
 
 [w03-merge-ex]: https://github.com/CTiB-exercizes/merging
 [w03-guessing-ex]: https://github.com/CTiB-exercizes/guessing
-[w03-base-ex]: https://github.com/birc-ctib/changing-base
-[w03-sieve-ex]: https://github.com/birc-ctib/sieve
-[w03-substring-ex]: https://github.com/birc-ctib/lis
-[w03-powerset-ex]: https://github.com/birc-ctib/powerset
-[w03-subseq-ex]: https://github.com/birc-ctib/liseq
+[w03-base-ex]: https://github.com/CTiB-exercizes/changing-base
+[w03-sieve-ex]: https://github.com/CTiB-exercizes/sieve
+[w03-substring-ex]: https://github.com/CTiB-exercizes/lis
+[w03-powerset-ex]: https://github.com/CTiB-exercizes/powerset
+[w03-subseq-ex]: https://github.com/CTiB-exercizes/liseq
 
 [w05-bucket-ex]: https://github.com/birc-ctib/bucket-sort
 
